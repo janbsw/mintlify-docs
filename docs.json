@@ -4,8 +4,8 @@
   "name": "Willow - Mätch VC",
   "colors": {
     "primary": "#47368c",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#47368c",
+    "dark": "#47368c"
   },
   "favicon": "/favicon.svg",
   "navigation": {
