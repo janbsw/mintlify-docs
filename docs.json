@@ -84,8 +84,8 @@
     }
   },
   "logo": {
-    "light": "/logo/Maetch_lightmode.svg",
-    "dark": "/logo/Maetch_blackmode.svg"
+    "light": "/logo/Maetch.svg",
+    "dark": "/logo/Maetch.svg"
   },
   "navbar": {
     "links": [
